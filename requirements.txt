@@ -1,6 +1,5 @@
-streamlit==1.15.0
-databricks-sdk==0.17.0
-langchain==0.0.171
-openai==0.27.4
-mlflow==2.4.0
-pyspark==3.2.1
+streamlit==1.17.0
+requests==2.26.0
+langchain==0.0.164  # LangChain version (adjust to the latest stable version)
+openai==0.27.0  # If you're using OpenAI models
+databricks-sdk==0.14.0  # For Databricks API interaction
